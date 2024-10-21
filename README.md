@@ -1,4 +1,4 @@
-# Hi there, I'm [Sonja Steingrimsdottir] 👋
+# Hi there, I'm Sonja Steingrimsdottir 👋
 
 Welcome to my GitHub! I'm a data enthusiast with a background in health science and medical administrative services, combined with a master's in big data and business analytics. I've had the opportunity to live and work in 5 different countries, and I love applying my global perspective to solving complex problems through data-driven insights.
 
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a data enthusiast with a background in health science 
 
 ### 📫 How to Reach Me
 Feel free to connect with me on:
-- **[LinkedIn]https://www.linkedin.com/in/sonja-steingrimsdottir-3a123217a/**
+- **[LinkedIn] (https://www.linkedin.com/in/sonja-steingrimsdottir-3a123217a/**)
 - Or, drop me a message at: **sonja.steingrimsdottir@gmail.com**
 
 ---
