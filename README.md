@@ -30,6 +30,6 @@ Feel free to connect with me on:
 Here are some of the cool projects I'm currently working on:
 1. **[Rat Detector](https://github.com/sonjasteingrimsdottir/Rat_Detector)** – A machine learning project detecting rats using image recognition.
 2. **[Repsol Gas & Diesel Forecasting](https://github.com/sonjasteingrimsdottir/CapstoneProjectRepsol)** – A project forecasting fuel demand and implementing dynamic pricing strategies for Repsol.
-3. **[Statistics for Data Science Project] (https://github.com/sonjasteingrimsdottir/Statistics-for-Data-Science-project)** - In an effort to find life in the universe, a space mission discovers a small remote planet with inhabitants. The task is to estimate the total population of the planet, denoted as **Nmax**. Since we cannot survey every inhabitant, we sample 100 inhabitants and record their assigned numbers, which range from 1 to **Nmax**.
+3. **[Statistics for Data Science Project](https://github.com/sonjasteingrimsdottir/Statistics-for-Data-Science-project)** - In an effort to find life in the universe, a space mission discovers a small remote planet with inhabitants. The task is to estimate the total population of the planet, denoted as **Nmax**. Since we cannot survey every inhabitant, we sample 100 inhabitants and record their assigned numbers, which range from 1 to **Nmax**.
 
 Thanks for visiting my profile! 😄
