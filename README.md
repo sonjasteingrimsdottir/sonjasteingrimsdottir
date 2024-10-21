@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a data enthusiast with a background in health science 
 
 ### 📫 How to Reach Me
 Feel free to connect with me on:
-- **LinkedIn (https://www.linkedin.com/in/sonja-steingrimsdottir-3a123217a/**)
+- **[LinkedIn](https://www.linkedin.com/in/sonja-steingrimsdottir-3a123217a/)**
 - Or, drop me a message at: **sonja.steingrimsdottir@gmail.com**
 
 ---
