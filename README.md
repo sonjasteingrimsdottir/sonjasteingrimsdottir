@@ -27,5 +27,9 @@ Feel free to connect with me on:
 
 ---
 
+### 🔧 Featured Projects
+Here are some of the cool projects I'm currently working on:
+1. **[RatDetector](https://github.com/sonjasteingrimsdottir/Rat_Detector)** – A machine learning project detecting rats using image recognition.
+2. **[Repsol Gas & Diesel Forecasting](https://github.com/sonjasteingrimsdottir/CapstoneProjectRepsol)** – A project forecasting fuel demand and implementing dynamic pricing strategies for Repsol.
 
 Thanks for visiting my profile! 😄
