@@ -16,7 +16,6 @@ Welcome to my GitHub! I'm a data enthusiast with a background in health science 
 - **International Experience:** Lived in 5 countries and recently moved to Sweden.
 - **Healthcare Experience:** Bachelor's in Health Science with experience in patient care at Boston Medical Center.
 - **Big Data & Analytics:** Master's in Big Data and Business Analytics, where I worked on projects like forecasting gas and diesel sales and prices across regions.
-- **Project Spotlight:** Currently working on enhancing my GitHub portfolio with various projects, including RatDetector and forecasting sales with Repsol.
 
 ---
 
